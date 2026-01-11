@@ -1,2 +1,2 @@
-# 32. Atomic operations library
+# Atomic operations library
 ###### [CXX](../README.md) / atomics

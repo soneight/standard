@@ -1,2 +1,2 @@
-## 8.19 Comma operator
+## Comma operator
 ###### [CXX](../../README.md) / [expr](../expr.md) / expr.comma

@@ -1,4 +1,4 @@
-# 10. Declarations
+# Declarations
 ###### [CXX](../../README.md) / dcl.dcl
-- [10.1 Specifiers](./spec.md)
-- [10.2 Enumeration declarations](./enum.md)
+1. [Specifiers](./spec.md)
+2. [Enumeration declarations](./enum.md)

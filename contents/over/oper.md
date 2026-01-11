@@ -1,2 +1,2 @@
-## 16.5 Overloaded operators
+## Overloaded operators
 ###### [CXX](../../README.md) / [over](../over.md) / over.oper

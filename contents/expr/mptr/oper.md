@@ -1,2 +1,2 @@
-## 8.5 Pointer-to-member operators
+## Pointer-to-member operators
 ###### [CXX](../../../README.md) / [expr](../../expr.md) / expr.mptr.oper

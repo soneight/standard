@@ -1,2 +1,2 @@
-# 24. Strings library
+# Strings library
 ###### [CXX](../README.md) / strings

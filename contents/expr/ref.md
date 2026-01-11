@@ -1,2 +1,2 @@
-### 8.2.5 Class member access
+### Class member access
 ###### [CXX](../../README.md) / [expr](../expr.md) / [expr.post](./post.md) / expr.ref

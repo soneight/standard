@@ -1,13 +1,13 @@
-# 8. Expressions
+# Expressions
 ###### [CXX](../README.md) / expr
-- [8.1 Primary expressions](./expr/prim.md)
-- [8.2 Postfix expressions](./expr/post.md)
-- [8.3 Unary expressions](./expr/unary.md)
-- [8.4 Explicit type conversion (cast notation)](./expr/cast.md)
-- [8.5 Pointer-to-member operators](./expr/mptr/oper.md)
-- [8.16 Conditional operator](./expr/cond.md)
-- [8.18 Assignment and compound assignment operators](./expr/ass.md)
-- [8.19 Comma operator](./expr/comma.md)
+1. [Primary expressions](./expr/prim.md)
+2. [Postfix expressions](./expr/post.md)
+3. [Unary expressions](./expr/unary.md)
+4. [Explicit type conversion (cast notation)](./expr/cast.md)
+5. [Pointer-to-member operators](./expr/mptr/oper.md)
+16. [Conditional operator](./expr/cond.md)
+18. [Assignment and compound assignment operators](./expr/ass.md)
+19. [Comma operator](./expr/comma.md)
 1.
 > [ *Note:* [expr](./expr.md) defines the syntax, order of evaluation, and meaning of expressions.[⁶²](#62)
 > An expression is a sequence of operators and operands that specifies a computation.

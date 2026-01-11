@@ -1,3 +1,3 @@
-## 11.3 Meaning of declarators
+## Meaning of declarators
 ###### [CXX](../../README.md) / [dcl.decl](./decl.md) / dcl.meaning
-- [11.3.2 References]()
+2. [References](../dcl/ref.md)

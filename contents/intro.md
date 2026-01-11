@@ -1,3 +1,3 @@
-# 4. General principles
+# General principles
 ###### [CXX](../README.md) / intro
-- [4.6 Program execution](./intro/execution.md)
+6. [Program execution](./intro/execution.md)

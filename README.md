@@ -1,6 +1,7 @@
 # Programming languages – C++
 > C++17 standard draft markdown based on [N4659](https://wg21.link/n4659)
 4. [General principles](./contents/intro.md)
+5. [Lexical conventions](./contents/lex.md)
 6. [Basic concepts](./contents/basic.md)
 7. [Standard conversions](./contents/conv.md)
 8. [Expressions](./contents/expr.md)

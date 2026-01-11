@@ -1,2 +1,2 @@
 # 32. Atomic operations library
-###### [Programming languages – C++](../README.md) / atomics
+###### [CXX](../README.md) / atomics

@@ -9,7 +9,7 @@
 - [8.18 Assignment and compound assignment operators](./expr/ass.md)
 - [8.19 Comma operator](./expr/comma.md)
 1.
-> [ *Note:* [expr](./expr.md) defines the syntax, order of evaluation, and meaning of expressions.[⁶²](#₆₂)
+> [ *Note:* [expr](./expr.md) defines the syntax, order of evaluation, and meaning of expressions.[⁶²](#62)
 > An expression is a sequence of operators and operands that specifies a computation.
 > An expression can result in a value and can cause side effects. — *end note* ]
 2.
@@ -93,7 +93,7 @@ A &&ar = static_cast< A && >( a );
 > 2. — If either operand is of type long double, the other shall be converted to long double.
 > 3. — Otherwise, if either operand is double, the other shall be converted to double.
 > 4. — Otherwise, if either operand is float, the other shall be converted to float.
-> 5. — Otherwise, the integral promotions [conv.prom](./conv/prom.md) shall be performed on both operands.[⁶³](#₆₃) Then the following
+> 5. — Otherwise, the integral promotions [conv.prom](./conv/prom.md) shall be performed on both operands.[⁶³](#63) Then the following
 rules shall be applied to the promoted operands:
 > - 1. — If both operands have the same type, no further conversion is needed.
 > - 2. — Otherwise, if both operands have signed integer types or both have unsigned integer types,
@@ -121,7 +121,7 @@ rules shall be applied to the promoted operands:
 > The glvalue expression is evaluated and its value is discarded.
 13.
 > The values of the floating operands and the results of floating expressions may be represented in greater precision and range than that required by the type;
-> the types are not changed thereby.[⁶⁴](#₆₄)
+> the types are not changed thereby.[⁶⁴](#64)
 14.
 > The cv-combined type of two types `T1` and `T2` is a type `T3` similar to `T1` whose cv-qualification signature [conv.qual](./conv/qual.md) is:
 > 1. — for every i > 0, cv<sub>i</sub><sup>3</sup> is the union of cv<sub>i</sub><sup>1</sup> and cv<sub>i</sub><sup>2</sup>;
@@ -157,10 +157,10 @@ typedef int const **pci;
 ```
 > The composite pointer type of `p` and `q` is “pointer to `void const`”; the composite pointer type of `pi` and `pci` is “pointer to pointer `const` to `int const`”.
 > — *end example* ]
-# ₆₂
+###### 62
 > The precedence of operators is not directly specified, but it can be derived from the syntax.
-# ₆₃
+###### 63
 > As a consequence, operands of type `bool`, `char16_t`, `char32_t`, `wchar_t`, or an enumerated type are converted to some integral type.
-# ₆₄
+###### 64
 > The cast and assignment operators must still perform their specific conversions as described in
 > [expr.cast](./expr/cast.md), [expr.static.cast](./expr/static/cast.md) and [expr.ass](./expr/ass.md).

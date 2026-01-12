@@ -8,6 +8,8 @@
 10. [Declarations](./contents/dcl/dcl.md)
 11. [Declarators](./contents/dcl/decl.md)
 12. [Classes](./contents/class.md)
+13. [Derived classes](./contents/class/derived.md)
+15. [Special member functions](./contents/special.md)
 16. [Overloading](./contents/over.md)
 ## Note:
 - This repository contains ISO C++ draft text, which is **`© ISO/IEC`**

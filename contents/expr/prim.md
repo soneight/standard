@@ -13,7 +13,7 @@
 
 1. [Literals](./prim/literal.md)
 2. [This](./prim/this.md)
-3. [Parentheses]
+3. [Parentheses](./prim/paren.md)
 4. [Names](./prim/id.md)
 5. [Lambda expressions]
 6. [Fold expressions]
